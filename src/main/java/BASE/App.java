@@ -39,9 +39,9 @@ public class App
         String n = in.nextLine();
         System.out.print("Enter a verb: ");
         String v = in.next();
-        System.out.print("\nEnter an adjective: ");
+        System.out.print("Enter an adjective: ");
         String adj = in.next();
-        System.out.print("\nEnter an adverb: ");
+        System.out.print("Enter an adverb: ");
         String adv = in.next();
 
         prog.printOutput(n, v, adj, adv);
